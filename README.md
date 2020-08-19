@@ -1,4 +1,4 @@
-### Hi there Muktadir Ahamed Shakib👋
+### Muktadir Ahamed Shakib👋
 
 ## I'm a 😍😍 JavaScript Lover 😍😍!
 
@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with ... Expert Programmer
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... Social Media
--->
+
 
 ### Connect with me:
 
