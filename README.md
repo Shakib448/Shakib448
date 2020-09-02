@@ -3,7 +3,7 @@
 ## I'm a 😍😍 JavaScript Lover 😍😍!
 
 - 🔭 I’m currently working on ... Self learning
-- 🌱 I’m currently learning ... Javascript, React Js
+- 🌱 I’m currently learning ... (MERN Stack) MogoDb, Express Js, React Js, Node Js 
 - 👯 I’m looking to collaborate on ... Javascript, React Js
 - 🤔 I’m looking for help with ... Expert Programmer
 - 💬 Ask me about ... Anything
