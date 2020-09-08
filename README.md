@@ -34,7 +34,6 @@
 <br />
 <br />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shakib448&show_icons=true" alt="nomanme" /></p>
 
 ---
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Shakib448&show_icons=true&hide_border=true" />
