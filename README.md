@@ -33,7 +33,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br/>
 <br/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakib448&layout=compact&hide=html" alt="muktadir" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakib448&bluelovers&show_icons=true&theme=radical&layout=compact)
 
 <br />
 <br />
