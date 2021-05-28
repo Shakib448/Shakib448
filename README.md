@@ -40,6 +40,7 @@
 
 
 ---
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Shakib448=anuraghazra&show_icons=true&theme=radical)
 
 
 
