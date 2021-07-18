@@ -2,8 +2,8 @@
 
 ## I'm a 😍😍 JavaScript Lover 😍😍!
 
-- 🔭 I’m currently working on ... Self learning
-- 🌱 I’m currently learning ... (MERN Stack) MogoDb, Express Js, React Js, Node Js 
+- 🔭 I’m currently working on ...  React Js, NextJs, React-Native, Node Js ,MogoDb, Express Js,
+- 🌱 I’m currently learning ... Efficeint way to write code
 - 👯 I’m looking to collaborate on ... MERN STACK DEV
 - 🤔 I’m looking for help with ... Expert Programmer
 - 💬 Ask me about ... Anything
