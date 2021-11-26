@@ -1,4 +1,3 @@
-![CV][embed]https://drive.google.com/file/d/1iN9mwRHFTGMcM4SnQJljYgfdRK56jgAq/view?usp=sharing[/embed]
 
 <h1 align="center">Hi 👋,  Muktadir Ahamed Shakib</h1>
 
