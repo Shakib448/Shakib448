@@ -70,4 +70,4 @@
 <a href="https://github.com/Shakib448" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="30"></a>
 <a href="" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="Website" width="30"></a>
 </p>
-![image](https://user-images.githubusercontent.com/55608139/143619096-49fcbd24-b924-4c59-8581-8e590789d884.gif)
+
