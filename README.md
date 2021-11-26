@@ -13,7 +13,7 @@
 
 <br><br><br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Shakib448" alt="muktadir" /> </p>
-<br><br><br>
+
 <p align="center">**𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**</p>  
 <p align="center">
    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> </a> 
