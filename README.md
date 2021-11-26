@@ -63,7 +63,7 @@
 
 <p align="center"> ### Show some ❤️ by starring ⭐ some of the repositories!</p>
 <br>
-<p  align="right">
+<p  align="center">
 <a href="https://www.facebook.com/shakib.ahmed.334839/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/fb.png" alt="Facebook" width="30"></a>
 <a href="https://twitter.com/muktadir_shakib" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/tw.png" alt="Twitter" width="30"></a>
 <a href="https://www.linkedin.com/in/muktadir-ahmed-shakib-227795179/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a>
