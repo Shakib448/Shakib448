@@ -1,5 +1,3 @@
-[embed]Muktadir.pdf[/embed]
-
 <h1 align="center">Hi 👋, I'm Muktadir Ahamed Shakib</h1>
 
 <a target="_blank">
