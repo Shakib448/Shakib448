@@ -1,4 +1,5 @@
 
+
 <h1 align="center">Hi 👋,  Muktadir Ahamed Shakib</h1>
 
 <a target="_blank">
@@ -69,5 +70,4 @@
 <a href="https://twitter.com/muktadir_shakib" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/tw.png" alt="Twitter" width="30"></a>
 <a href="https://www.linkedin.com/in/muktadir-ahmed-shakib-227795179/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a>
 <a href="https://github.com/Shakib448" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="30"></a>
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="Website" width="30"></a>
 </p>
