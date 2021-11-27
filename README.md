@@ -24,6 +24,9 @@
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>  
     <a href="https://nodejs.org/en/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/> </a>  
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/dusk/48/000000/react.png"/> </a>  
+    <a href="https://nextjs.org">
+    <img src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png" height="48">
+    </a>
     <a href="https://redux.js.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://mui.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/material-ui.png"/> </a> 
