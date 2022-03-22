@@ -63,9 +63,6 @@
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Shakib448&theme=react-dark&hide_border=true&area=true)
 <br/>
 
-<p align="center">
-   <img src="https://github.com/Shakib448/Shakib448/blob/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
 
 <p align="center"> ### Show some ❤️ by starring ⭐ some of the repositories!</p>
 <br>
