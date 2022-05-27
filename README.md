@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muktadir Ahamed Shakib</h1>
 
 <a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="image.gif">
+  <img align="middle" height="250" width="400" alt="GIF" src="image.gif">
 </a>
 
 - 🔭 I’m currently working on ... React Js, NextJs, React-Native, Node Js ,MongoDb, Express Js,
