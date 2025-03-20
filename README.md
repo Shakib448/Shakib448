@@ -78,8 +78,8 @@
 
 ### **🔥 GitHub Streak Stats**
 <p align="center">
-  <a href="https://github.com/Shakib448">
-    <img src="https://streak-stats.demolab.com/?user=Shakib448&theme=dark&hide_border=true"/>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img height=160 align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=Shakib448&theme=dark&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
