@@ -19,7 +19,7 @@
 
 ## 📋 Career Summary
 
-> Backend Engineer with **5+ years** of experience in **Rust, Node.js, and MERN stack**. Skilled in building RESTful APIs, GraphQL services, and cloud-native microservices. Proficient in **PostgreSQL, MySQL, and MongoDB**, with expertise in **Docker, Kubernetes, RabbitMQ, Redis, and CI/CD pipelines**. Strong focus on scalable, secure, high-performance distributed systems, with proven experience in **team leadership** and **DevOps automation**.
+> Backend Engineer with 5+ years of experience in Node.js, NestJS, and the MERN stack. Skilled in building RESTful APIs, GraphQL services, and cloud-native microservices. Proficient in PostgreSQL, MySQL, and MongoDB, with expertise in Docker, Kubernetes, RabbitMQ, Redis, and CI/CD pipelines. Strong focus on scalable, secure, high-performance distributed systems, with proven experience in team leadership and DevOps automation. Passionate about **Rust**, actively exploring both for systems-level and backend development.
 
 ---
 
